@@ -11,7 +11,7 @@ The purpose the the project changes for the git repo and staging
 
 ##Deployment
 Where to deployee in the deployeement section some changes over here
-Changes for rebase
+Changes for rebase changes for stash untracked files
 
 ##How to contribute
 How to contribute and develop
