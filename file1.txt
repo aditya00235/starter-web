@@ -1,2 +1,1 @@
-File one changes by master
-changes by master
+File one changes for rebase conflict example changes by features
