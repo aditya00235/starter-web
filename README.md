@@ -10,7 +10,7 @@ Intro section Sample website with plenty of files for demos
 The purpose the the project changes for the git repo and staging
 
 ##Deployment
-Where to deployee in the deployeement section
+Where to deployee in the deployeement section some changes over here
 
 ##How to contribute
 How to contribute and develop
