@@ -11,6 +11,7 @@ The purpose the the project changes for the git repo and staging
 
 ##Deployment
 Where to deployee in the deployeement section some changes over here
+Changes for rebase
 
 ##How to contribute
 How to contribute and develop
