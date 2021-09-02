@@ -1,1 +1,1 @@
-File one changes for rebase conflict example changes by features
+File one changes by features
