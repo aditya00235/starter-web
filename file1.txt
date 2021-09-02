@@ -1,1 +1,1 @@
-File one changes by features
+File one changes by features Changes for git stash
